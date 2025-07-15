@@ -1,0 +1,92 @@
+/* * {
+  border: 1px red solid;
+} */
+* {
+  color: #ffe74b !important;
+  font-family: "Poppins", "Roboto", sans-serif !important;
+
+  /* color: #ffd700 !important; */
+}
+.dashboredr {
+  /* border: dashed black 1px !important; */
+}
+.nullborder {
+  /* border: 0px white solid; */
+}
+.hovericon:hover > :not(:hover) > .icondisply {
+  display: inline !important;
+}
+.hittmin {
+  min-height: 92vh !important;
+  /* background-color: rgb(17, 189, 74) !important; */
+}
+.buttenww {
+  width: fit-content;
+  font-size: small;
+}
+.boderbutten {
+  /* border-bottom: 1px black solid; */
+}
+.toop {
+  top: -27px !important ;
+  border-radius: 0%;
+}
+.fasele {
+  padding-left: 20px !important ;
+}
+
+.bgdark {
+  background-color: #0d0d1f !important;
+}
+.bgdarkblue {
+  background-color: #0c0c29 !important;
+}
+.card {
+  background-color: #0d0d1f; /* بک‌گراند تیره کارت */
+
+  color: #ffd700 !important; /* متن طلایی */
+  /* box-shadow: 0 0 10px #663399, 0 0 20px #663399,
+    0 0 30px rgba(102, 51, 153, 0.6) !important; glow effect */
+
+  transition: all 0.3s ease;
+}
+.borderred {
+  border-radius: 12px;
+  border: 1px solid #7c40b9; /* بنفش کم‌رنگ */
+}
+.card:hover {
+  box-shadow: 0 0 10px #663399, 0 0 20px #663399,
+    0 0 30px rgba(102, 51, 153, 0.6) !important;
+}
+.btbgr {
+  background: rgb(5, 137, 163) !important;
+  color: white !important;
+}
+.btb {
+  background: #020024;
+  background: linear-gradient(
+    43deg,
+    rgba(2, 0, 36, 0.88) 0%,
+    rgba(4, 4, 130, 1) 100%,
+    rgba(0, 212, 255, 0.23) 56%
+  );
+}
+.icongr {
+  color: rgba(22, 22, 224, 0.767) !important;
+}
+.gradntcomplet {
+  background: #020024 !important;
+  background: radial-gradient(
+    circle,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 0.96) 58%,
+    rgba(0, 212, 255, 1) 100%
+  ) !important;
+}
+.wits {
+  color: #ce53ffd5 !important;
+  width: fit-content;
+}
+.wits > * {
+  color: #ce53ffd5 !important;
+}
